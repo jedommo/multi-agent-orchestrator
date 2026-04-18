@@ -243,3 +243,5 @@ Built with:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Vanta.js](https://www.vantajs.com/)
+![Logo](./Screenshot_2.png)
+![alt text](Screenshot_2.png)
